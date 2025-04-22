@@ -4,7 +4,6 @@ names = ["Mark", "Arthur", "Aurelien", "Jim", "Lorna", "Owen"]
 
 # Flag for sorted list
 sorted = False
-
 # Main while loop
 while not sorted:
     # Assume sorted
